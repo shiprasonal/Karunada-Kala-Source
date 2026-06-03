@@ -1,0 +1,5 @@
+## Copy this file to `local.properties` in the project root (same folder as settings.gradle.kts).
+## Do not commit `local.properties` — it contains secrets.
+
+sdk.dir=C\:\\Users\\YOUR_USER\\AppData\\Local\\Android\\Sdk
+MAPS_API_KEY=YOUR_ANDROID_MAPS_SDK_KEY
